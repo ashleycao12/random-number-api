@@ -2,7 +2,7 @@
 This API generate a list of random number within a given range
 
 # How to use
-Connect to https://ash-random-api.herokuapp.com/"quantity"/"min"/"max" using get method  <br />
+Connect to https://ash-random-api.herokuapp.com/"quantity"/"min"/"max" using GET method  <br />
 For example if you want 5 random number in the range 1 to 10, then the url would be: https://ash-random-api.herokuapp.com/5/1/10
 
 JavaScript client example:
