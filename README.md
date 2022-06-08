@@ -1,4 +1,6 @@
 # Purpose
+I made this simple Flask API to learn how to create and deploy an API.
+
 This API generate a list of random number within a given range
 
 # How to use
